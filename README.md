@@ -13,3 +13,9 @@ Robot Specifications
 
 •	 DC gear motor is used to drive the wheels and 5V power supply is provided to run the robot. 
 
+CIRCUIT DIAGRAM
+
+
+![CIRCUIT DIAGRAM](https://user-images.githubusercontent.com/68948600/90118986-9ee66480-dd76-11ea-8ac2-162fdd408de7.png)
+
+
